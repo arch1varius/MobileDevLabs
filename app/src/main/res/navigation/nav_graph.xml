@@ -6,18 +6,18 @@
     <fragment
         android:id="@+id/navigation_feed"
         android:name="com.example.lab1.FeedFragment"
-        android:label="Feed"
+        android:label="@string/title_feed"
         tools:layout="@layout/fragment_feed" />
 
     <fragment
         android:id="@+id/navigation_profile"
         android:name="com.example.lab1.ProfileFragment"
-        android:label="Profile"
+        android:label="@string/title_profile"
         tools:layout="@layout/fragment_profile" />
 
     <fragment
         android:id="@+id/navigation_settings"
         android:name="com.example.lab1.SettingsFragment"
-        android:label="Settings"
+        android:label="@string/title_settings"
         tools:layout="@layout/fragment_settings" />
 </navigation>

@@ -45,4 +45,18 @@
     </string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile_image_description">Фотография профиля</string>
+    <string name="title_feed">Лента</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_settings">Настройки</string>
+    <string name="edit_profile_button">Изменить данные</string>
+    <string name="menu_edit_name">Изменить имя</string>
+    <string name="menu_edit_email">Изменить почту</string>
+    <string name="dialog_save">Сохранить</string>
+    <string name="dialog_cancel">Отмена</string>
+    <string name="refresh_feed">Обновить</string>
+    <string name="feed_empty_state">Сообщений пока нет</string>
+    <string name="post_number">Пост #%1$d</string>
+    <string name="like_button_description">Лайк</string>
+    <string name="new_data_received">Новые данные получены</string>
 </resources>
